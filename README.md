@@ -15,8 +15,9 @@ Dive into....
 ✅Lesson №7   
 ✅Lesson №8   
 ------Finish section 1✔️
-***Lesson №9   
-***Lesson №10   
+
+✅Lesson №9   
+✅Lesson №10   
 ***Lesson №11   
 ***Lesson №12   
 ***Lesson №13   
