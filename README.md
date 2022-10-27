@@ -1,8 +1,12 @@
 # OmniFood-proj
 
-Dive into....  
+Dive into....   
 
-***Lesson №1  ✅
+#### ---Starting date: 27.10.2022    
+#### ---Completition: 15.11.2022    
+  
+  
+✅Lesson №1    
 ***Lesson №2  
 ***Lesson №3  
 ***Lesson №4  
