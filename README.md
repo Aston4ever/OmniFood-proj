@@ -31,8 +31,8 @@ Dive into....
 ------Finish section 2✔️
 
 ✅Lesson №21     
-***Lesson №22    
-***Lesson №23     
+✅Lesson №22    
+✅Lesson №23     
 ***Lesson №24    
 ***Lesson №25    
 ***Lesson №26  
