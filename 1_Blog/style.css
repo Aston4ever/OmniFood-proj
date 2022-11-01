@@ -67,3 +67,23 @@ aside {
     border-bottom: #1098ad 5px solid;
     border-top: #1098ad 5px solid;
 }
+
+a:link {
+    color: #1098ad;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #1098ad;
+}
+
+a:hover {
+    color: orangered;
+    font-weight: bold;
+    text-decoration: underline solid red;
+}
+
+a:active {
+    color: red;
+    font-style: italic;
+}
