@@ -4,10 +4,14 @@
 
 h1, h2, h3, h4, p, li {
     font-family: sans-serif;
+    color: #444;
+}
+
+h1, h2, h3 {
+    color: #1098ad;
 }
 
 h1 {
-    color: blue;
     font-size: 26px;
     text-transform: uppercase;
     font-style: italic;
@@ -52,4 +56,14 @@ li {
 
 .related {
     list-style: none;
+}
+
+.main-header {
+    background-color: #f7f7f7;
+}
+
+aside {
+    background-color: #f7f7f7;
+    border-bottom: #1098ad 5px solid;
+    border-top: #1098ad 5px solid;
 }
