@@ -1,10 +1,23 @@
 * {
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 body {
     color:  #444;
     font-family: sans-serif;
+}
+
+.main-header {
+    background-color: #f7f7f7;
+    padding: 20px 40px;
+}
+
+aside {
+    background-color: #f7f7f7;
+    border-bottom: #1098ad 5px solid;
+    border-top: #1098ad 5px solid;
 }
 
 h1, h2, h3 {
@@ -38,6 +51,10 @@ p {
 
 li {
     font-size: 20px;
+    margin-bottom: 10px;
+}
+li:last-child {
+    margin-bottom: 0;
 }
 
 #author {
@@ -56,16 +73,6 @@ li {
 
 .related {
     list-style: none;
-}
-
-.main-header {
-    background-color: #f7f7f7;
-}
-
-aside {
-    background-color: #f7f7f7;
-    border-bottom: #1098ad 5px solid;
-    border-top: #1098ad 5px solid;
 }
 
 a:link {
