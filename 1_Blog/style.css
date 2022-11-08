@@ -10,7 +10,7 @@ body {
 
 }
 .container {
-    width: 700px;
+    width: 825px;
     margin: 0 auto;
     position: relative;
 }
@@ -46,8 +46,22 @@ h1 {
 }
 
 h2 {
+    position: relative;
     font-size: 40px;
     margin-bottom: 30px;
+    background-color: orangered;
+}
+h2::after {
+    position: absolute;
+    display: inline-block;
+    content: "TOP";
+    padding: 5px 10px;
+    font-size: 22px;
+    font-weight: bold;
+    background: yellow;
+    color: black;
+    top: -15px;
+    right: 25px;
 }
 
 h3 {
