@@ -1,14 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 body {
-    border: 4px solid black;
     font-family: sans-serif;
     line-height: 1.4;
 }
-
+.container {
+    width: 825px;
+    margin: 50px auto;
+    border: 4px solid black;
+}
 h2  {
-  text-align: center;
+    text-align: center;
     font-family: sans-serif;
     text-transform: uppercase;
     background-color: #f7f7f7;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 .price {
@@ -20,6 +30,7 @@ h2  {
     font-size: small;
     color: #666;
     font-weight: bold;
+    margin-bottom: 20px;
 }
 
 .info   {
@@ -27,8 +38,10 @@ h2  {
 }
 
 a:link {
+    display: block;
     color: black;
     text-decoration: underline;
+    margin-bottom: 25px;
 }
 
 
@@ -49,9 +62,15 @@ a:active {
 h3  {
     text-transform: uppercase;
     font-size: 16px;
+    margin-bottom: 20px;
 }
 li {
     list-style: square;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+li:last-child {
+    margin-bottom: 0;
 }
 
 button  {
@@ -59,6 +78,14 @@ button  {
     color: white;
     background-color:black;
     border: none;
+    border-top: 4px solid black;
     text-align: center;
     cursor: pointer;
+    width: 100%;
+    padding-bottom: 10px;
+    padding-top: 10px;
     }
+button:hover {
+    color: black;
+    background-color: white;
+}
