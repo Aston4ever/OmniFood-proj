@@ -112,7 +112,10 @@ a:active {
     color: red;
     font-style: italic;
 }
-
+.post-img {
+    width: 100%;
+    height: auto;
+}
 /*#copyright {*/
 /*    color: red;*/
 /*}*/
