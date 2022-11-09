@@ -23,7 +23,13 @@ body {
 article {
     margin-bottom: 60px;
 }
-
+nav {
+    text-align: center;
+}
+nav a:link {
+    display: inline-block;
+    padding: 10px 30px 0;
+}
 .post-header {
     margin-bottom: 40px;
 }
@@ -49,7 +55,6 @@ h2 {
     position: relative;
     font-size: 40px;
     margin-bottom: 30px;
-    background-color: orangered;
 }
 h2::after {
     position: absolute;
