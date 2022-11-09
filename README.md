@@ -54,6 +54,8 @@ Dive into....
 ✅Lesson №42  
 ✅Lesson №43  
 ✅Lesson №44   
+------Finish section 3✔️
+
 ***Lesson №45  
 ***Lesson №46  
 ***Lesson №47  
