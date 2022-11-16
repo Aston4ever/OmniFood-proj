@@ -3,8 +3,8 @@
 Dive into....   
 
 #### ---Starting date: 27.10.2022    
-#### ---Completition: 15.11.2022  - missed❌  
-#### ---new Completition: 30.11.2022
+#### ---Completition date: 15.11.2022  - missed❌  
+#### ---new Completition date: 30.11.2022
   
   
 ✅Lesson №1    
@@ -161,5 +161,4 @@ Dive into....
 ***Lesson №146  
 ***Lesson №147  
 ***Lesson №148  
-***Lesson №149  
-***Lesson №150  
+***Lesson №149
