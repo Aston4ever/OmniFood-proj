@@ -10,7 +10,7 @@ body {
 
 }
 .container {
-    width: 825px;
+    width: 1200px;
     margin: 0 auto;
     position: relative;
 }
@@ -38,7 +38,7 @@ aside {
     background-color: #f7f7f7;
     border-bottom: #1098ad 5px solid;
     border-top: #1098ad 5px solid;
-    padding: 50px 0;
+    padding: 50px 40px;
 }
 
 h1, h2, h3 {
@@ -115,6 +115,7 @@ li:last-child {
 
 .related {
     list-style: none;
+    margin-left: 0;
 }
 
 a:link {
