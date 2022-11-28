@@ -72,7 +72,7 @@ Dive into....
 ✅Lesson №57  
 ✅Lesson №58  
 ✅Lesson №59  
-***Lesson №60  
+✅Lesson №60  
 ***Lesson №61  
 ***Lesson №62  
 ***Lesson №63  
