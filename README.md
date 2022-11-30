@@ -4,7 +4,8 @@ Dive into....
 
 #### ---Starting date: 27.10.2022    
 #### ---Completition date: 15.11.2022  - missed❌  
-#### ---new Completition date: 30.11.2022
+#### ---Completition date: 30.11.2022  - missed❌
+#### ---new Completition date: 31.12.2022
   
   
 ✅Lesson №1    
