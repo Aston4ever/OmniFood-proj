@@ -81,8 +81,8 @@ Dive into....
 ✅Lesson №65  
 ------Finish section 4✔️
 
-***Lesson №66  
-***Lesson №67  
+✅Lesson №66  
+✅Lesson №67  
 ***Lesson №68  
 ***Lesson №69  
 ***Lesson №70  
