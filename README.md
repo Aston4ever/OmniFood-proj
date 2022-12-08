@@ -3,7 +3,9 @@
 Dive into....   
 
 #### ---Starting date: 27.10.2022    
-#### ---Completition: 15.11.2022    
+#### ---Completition date: 15.11.2022  - missed❌  
+#### ---Completition date: 30.11.2022  - missed❌
+#### ---new Completition date: 31.12.2022
   
   
 ✅Lesson №1    
@@ -42,43 +44,47 @@ Dive into....
 ✅Lesson №30  
 ✅Lesson №31  
 ✅Lesson №32  
-***Lesson №33  
-***Lesson №34  
-***Lesson №35  
-***Lesson №36  
-***Lesson №37  
-***Lesson №38  
-***Lesson №39  
-***Lesson №40  
-***Lesson №41  
-***Lesson №42  
-***Lesson №43  
-***Lesson №44   
-***Lesson №45  
-***Lesson №46  
-***Lesson №47  
-***Lesson №48  
-***Lesson №49  
-***Lesson №50  
-***Lesson №51  
-***Lesson №52  
-***Lesson №53  
-***Lesson №54  
-***Lesson №55  
-***Lesson №56  
-***Lesson №57  
-***Lesson №58  
-***Lesson №59  
-***Lesson №60  
-***Lesson №61  
-***Lesson №62  
-***Lesson №63  
-***Lesson №64  
-***Lesson №65  
-***Lesson №66  
-***Lesson №67  
-***Lesson №68  
-***Lesson №69  
+✅Lesson №33  
+✅Lesson №34  
+✅Lesson №35  
+✅Lesson №36  
+✅Lesson №37  
+✅Lesson №38  
+✅Lesson №39  
+✅Lesson №40  
+✅Lesson №41  
+✅Lesson №42  
+✅Lesson №43  
+✅Lesson №44   
+------Finish section 3✔️
+
+✅Lesson №45  
+✅Lesson №46  
+✅Lesson №47  
+✅Lesson №48  
+✅Lesson №49  
+✅Lesson №50  
+✅Lesson №51  
+✅Lesson №52  
+✅Lesson №53  
+✅Lesson №54  
+✅Lesson №55  
+✅Lesson №56  
+✅Lesson №57  
+✅Lesson №58  
+✅Lesson №59  
+✅Lesson №60  
+✅Lesson №61  
+✅Lesson №62  
+✅Lesson №63  
+✅Lesson №64  
+✅Lesson №65  
+------Finish section 4✔️
+
+✅Lesson №66  
+✅Lesson №67  
+✅Lesson №68  
+✅Lesson №69  
 ***Lesson №70  
 ***Lesson №71  
 ***Lesson №72  
@@ -158,5 +164,4 @@ Dive into....
 ***Lesson №146  
 ***Lesson №147  
 ***Lesson №148  
-***Lesson №149  
-***Lesson №150  
+***Lesson №149
