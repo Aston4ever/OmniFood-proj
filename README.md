@@ -97,7 +97,7 @@ Dive into....
 ✅Lesson №79  
 ✅Lesson №80  
 ✅Lesson №81  
-***Lesson №82  
+✅Lesson №82  
 ***Lesson №83  
 ***Lesson №84   
 ***Lesson №85  
